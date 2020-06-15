@@ -1,0 +1,15 @@
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\bin\Debug\IS4Ucountdown.exe.config
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\bin\Debug\IS4Ucountdown.exe
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\bin\Debug\IS4Ucountdown.pdb
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\IS4Ucountdown.csprojAssemblyReference.cache
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\MainWindow.g.cs
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\App.g.cs
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\IS4Ucountdown_MarkupCompile.cache
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\IS4Ucountdown_MarkupCompile.lref
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\MainWindow.baml
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\IS4Ucountdown.g.resources
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\IS4Ucountdown.Properties.Resources.resources
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\IS4Ucountdown.csproj.GenerateResource.cache
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\IS4Ucountdown.csproj.CoreCompileInputs.cache
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\IS4Ucountdown.exe
+C:\Users\Svoby\source\repos\IS4Ucountdown\IS4Ucountdown\obj\Debug\IS4Ucountdown.pdb
